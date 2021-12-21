@@ -1,7 +1,3 @@
 # PaintingInCode
 
-This was a personal project that I was very passionate about and resilient with. 
-This was created when I was first starting to learn how to code graphics. 
-This project showed me that my only limit was my imagination when it came to coding.
-It is an easter home and I used pygame to create all of the images myself. 
-I applied all the basics of code I learnt such as if and for statements and loops, and created this image.
+The python library pygame was utilized to create 2D graphics with the means to "paint" a landscape. Objects were "painted" through a variety of functions such as draw.rect to draw the house and the function .fill was used to colour in the drawings.
